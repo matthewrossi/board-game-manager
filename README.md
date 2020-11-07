@@ -1,4 +1,4 @@
-*Project for the Politecnico di Milano course in Middleware Technologies for Distributed Systems*
+*This project was realized for the Politecnico di Milano course in Middleware Technologies for Distributed Systems*
 
 # Board Game Manager
 
